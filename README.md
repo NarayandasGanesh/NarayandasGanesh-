@@ -1,4 +1,3 @@
-# NarayandasGanesh-
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
